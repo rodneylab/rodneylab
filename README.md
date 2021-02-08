@@ -30,6 +30,10 @@ You can support me and <a aria-label="Support Rodney Lab via by me a coffee" hre
 
 ## ⌨️ Latest Blog Posts
 
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 - <a aria-label="Open Rodney Lab Blog Post: Gatsby Site Accessibility: 3 Quick Gains" href="https://rodneylab.com/gatsby-site-accessibility-3-quick-gains/" rel="noopener">Gatsby Site Accessibility: 3 Quick Gains</a>.
 - <a aria-label="Open Rodney Lab Blog Post: How to Enable Encrypted DNS on iPhone iOS 14" href="https://rodneylab.com/how-to-enable-encrypted-dns-on-iphone-ios-14/" rel="noopener">How to Enable Encrypted DNS on iPhone iOS 14</a>.
 - <a aria-label="Open Rodney Lab Blog Post: 100 Days of Gatsby Code 2021" href="https://rodneylab.com/100-days-of-gatsby-code-2021/" rel="noopener">100 Days of Gatsby Code 2021</a>.
