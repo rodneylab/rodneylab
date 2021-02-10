@@ -31,7 +31,8 @@ You can support me and <a aria-label="Support Rodney Lab via by me a coffee" hre
 ## ⌨️ Latest Blog Posts
 
 
-<!-- BLOG-POST-LIST:START -->Gatsby Site Accessibility: 3 Quick Gains: - [Here's 3 quick 'n easy steps web developers can take to get going on improving their Gatsby site accessibility.](https://rodneylab.com/gatsby-site-accessibility-3-quick-gains/)How to Enable Encrypted DNS on iPhone iOS 14: - [Protect your online privacy: find out how to enable encrypted DNS on iPhone 14.0.  Also we look at what DNS is and why it matters for privacy.](https://rodneylab.com/how-to-enable-encrypted-dns-on-iphone-ios-14/)100 Days of Gatsby Code 2021: - [100 Days of Gatsby Code 2021 Challenge offers a chance to try out new features in Gatsby JS fast static site builder.](https://rodneylab.com/100-days-of-gatsby-code-2021/)New Rodney Lab Site Live: - [New Rodney Lab site, built optimising accessibility, speed and security using Gatsby, React and GraphQL is now live.  Let us know your opinion on the new site.](https://rodneylab.com/new-rodneylab-site-now-live/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 - <a aria-label="Open Rodney Lab Blog Post: Gatsby Site Accessibility: 3 Quick Gains" href="https://rodneylab.com/gatsby-site-accessibility-3-quick-gains/" rel="noopener">Gatsby Site Accessibility: 3 Quick Gains</a>.
 - <a aria-label="Open Rodney Lab Blog Post: How to Enable Encrypted DNS on iPhone iOS 14" href="https://rodneylab.com/how-to-enable-encrypted-dns-on-iphone-ios-14/" rel="noopener">How to Enable Encrypted DNS on iPhone iOS 14</a>.
