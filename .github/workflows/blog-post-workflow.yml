@@ -4,7 +4,7 @@ on:
   # Run workflow automatically
   schedule:
     # Runs every hour, on the hour
-    # - cron: '~ 3 * *'
+    # - cron: '0 3 * * *'
     - cron: '0 * * * *'
 
 jobs:
@@ -17,4 +17,4 @@ jobs:
         with:
           # comma-separated list of RSS feed urls
           feed_list: "https://rodneylab.com/rss.xml"
-          template: "$title: - [$description]($url) \ "
+          template: "- **$title**: [$description]($url)\n"
