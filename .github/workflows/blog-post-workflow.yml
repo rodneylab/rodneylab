@@ -17,5 +17,4 @@ jobs:
         with:
           # comma-separated list of RSS feed urls
           feed_list: "https://rodneylab.com/rss.xml"
-    with:
-      template: "$title: - [$description]($url) \ "
+          template: "$title: - [$description]($url) \ "
