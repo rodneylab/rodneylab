@@ -5,7 +5,7 @@ on:
   schedule:
     # Runs every hour, on the hour
     # - cron: '~ 3 * *'
-    - cron: '41 * * * *'
+    - cron: '0 * * * *'
 
 jobs:
   update-readme-with-blog:
@@ -17,5 +17,5 @@ jobs:
         with:
           # comma-separated list of RSS feed urls
           feed_list: "https://rodneylab.com/rss.xml"
-    options:
-      - template: "$title: - [$description]($url) \ "
+    with:
+      template: "$title: - [$description]($url) \ "
