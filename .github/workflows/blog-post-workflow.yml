@@ -5,7 +5,7 @@ on:
   schedule:
     # Runs every hour, on the hour
     # - cron: '~ 3 * *'
-    - cron: '39 * * *'
+    - cron: '41 * * * *'
 
 jobs:
   update-readme-with-blog:
