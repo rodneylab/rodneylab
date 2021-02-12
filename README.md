@@ -32,6 +32,7 @@ You can support me and <a aria-label="Support Rodney Lab via by me a coffee" hre
 
 
 <!-- BLOG-POST-LIST:START -->
+- **Gatsby Coding Challenge 2021: Styling & Forms**: Gatsby Coding Challenge 2021 — keep up with Rodney Lab's progress in 100 Days of Gatsby Code 2021 as he builds a site for AudioCore. [Read the full article on Gatsby Coding Challenge 2021: Styling & Forms](https://rodneylab.com/gatsby-coding-challenge-2021-styling-forms/).
 - **Gatsby Site Accessibility: 3 Quick Gains**: Here's 3 quick 'n easy steps web developers can take to get going on improving their Gatsby site accessibility. [Read the full article on Gatsby Site Accessibility: 3 Quick Gains](https://rodneylab.com/gatsby-site-accessibility-3-quick-gains/).
 - **How to Enable Encrypted DNS on iPhone iOS 14**: Protect your online privacy: find out how to enable encrypted DNS on iPhone 14.0.  Also we look at what DNS is and why it matters for privacy. [Read the full article on How to Enable Encrypted DNS on iPhone iOS 14](https://rodneylab.com/how-to-enable-encrypted-dns-on-iphone-ios-14/).
 - **100 Days of Gatsby Code 2021**: 100 Days of Gatsby Code 2021 Challenge offers a chance to try out new features in Gatsby JS fast static site builder. [Read the full article on 100 Days of Gatsby Code 2021](https://rodneylab.com/100-days-of-gatsby-code-2021/).
