@@ -15,4 +15,4 @@ jobs:
         with:
           # comma-separated list of RSS feed urls
           feed_list: "https://rodneylab.com/rss.xml"
-          template: "$newline- **$title**: $description <a aria-label="Read Rodney Lab post on $title" href="$url" rel="noopener">Read the full article on $title</a>."
+          template: "$newline- **$title**: $description <a aria-label=\"Read Rodney Lab post on $title\" href=\"$url\" rel=\"noopener\">Read the full article on $title</a>."
