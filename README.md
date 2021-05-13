@@ -24,6 +24,15 @@ Take a look at the latest <a aria-label="See latest Rodney Lab projects" href="h
 
 Sign up for my <a aria-label="Sign up the the Rodney Lab newsletter" href="https://rodneylab.com/about/#newsletter" rel="noopener">Newsletter</a> to keep in touch.
 
+
+## 🔩 Projects
+
+- 💬 [gatsby-functions-fauna](https://github.com/rodneylab/gatsby-functions-fauna)
+- 🌤 [gatsby-theme-climate](https://github.com/rodneylab/gatsby-starter-climate)
+- 🌤 [gatsby-starter-climate](https://github.com/rodneylab/gatsby-starter-climate)
+- 📅 [rodneylab-100-days-of-gatsby](https://github.com/rodneylab/rodneylab-100-days-of-gatsby)
+- 🌈 [rainbow](https://github.com/rodneylab/rainbow)
+
 ## 💙 Support Me
 
 You can support me and <a aria-label="Support Rodney Lab via by me a coffee" href="https://rodneylab.com/giving/" rel="noopener">buy me a coffee</a>, if you are able to.
