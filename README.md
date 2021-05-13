@@ -5,7 +5,7 @@
 </picture>
 
 # Rodney Lab
-**I create content on Gatsby JS Accessible web development as well as online privacy and security.**
+**I'm Rodney, a web developer based in the UK 🇬🇧 and am available for consultancy work.**
 
 <!--
 Take a look at the latest <a aria-label="See latest Rodney Lab projects" href="https://rodneylab.com/projects/" rel="noopener">Rodney Lab projects</a>.
