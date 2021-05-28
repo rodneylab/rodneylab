@@ -1,4 +1,4 @@
-# SecurityPolicies and Procedures
+# Security Policies and Procedures
 
 ## Reporting a Bug
 The Rodney Lab team and community take all security bugs in Rodney Lab repos seriously. Thank you for improving the security of Rodney Lab repos. We appreciate your efforts and responsible disclosure and will make every effort to acknowledge your contributions.
