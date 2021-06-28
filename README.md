@@ -27,11 +27,11 @@ Sign up for my <a aria-label="Sign up the the Rodney Lab newsletter" href="https
 
 ## 🔩 Projects
 
-- 💬 [gatsby-functions-fauna](https://github.com/rodneylab/gatsby-functions-fauna)
+- 🔥 [sveltekit-blog-mdx](https://github.com/rodneylab/sveltekit-blog-mdx)
+- 🤖 [sveltekit-seo](https://github.com/rodneylab/sveltekit-seo)
+- 🌈 [rainbow](https://github.com/rodneylab/rainbow)
 - 🌤 [gatsby-theme-climate](https://github.com/rodneylab/gatsby-starter-climate)
 - 🌤 [gatsby-starter-climate](https://github.com/rodneylab/gatsby-starter-climate)
-- 📅 [rodneylab-100-days-of-gatsby](https://github.com/rodneylab/rodneylab-100-days-of-gatsby)
-- 🌈 [rainbow](https://github.com/rodneylab/rainbow)
 
 ## 💙 Support Me
 
