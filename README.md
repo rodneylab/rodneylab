@@ -29,9 +29,9 @@ Sign up for my <a aria-label="Sign up the the Rodney Lab newsletter" href="https
 
 - 🔥 [sveltekit-blog-mdx](https://github.com/rodneylab/sveltekit-blog-mdx) &mdash; SvelteKit starter blog using MDsveX
 - 🤖 [sveltekit-seo](https://github.com/rodneylab/sveltekit-seo) &mdash; example code for setting up SEO on a SvelteKit blog
+- 🚀 [sveltekit-graphql-client](https://github.com/rodneylab/sveltekit-graphql-client) &mdash; SvelteKit demo for running ApolloClient 
 - 🌈 [rainbow](https://github.com/rodneylab/rainbow) &mdash; Accessibility tool for adding accessible text to images
 - 🌤 [gatsby-starter-climate](https://github.com/rodneylab/gatsby-starter-climate) &mdash; Gatsby JS starter
-- 🌤 [gatsby-theme-climate](https://github.com/rodneylab/gatsby-theme-climate) &mdash; Gatsby JS theme which adds functionality to GatsbyJS sites
 
 ## 💙 Support Me
 
