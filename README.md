@@ -28,8 +28,8 @@ Sign up for my <a aria-label="Sign up the the Rodney Lab newsletter" href="https
 
 - 🔥 [sveltekit-blog-mdx](https://github.com/rodneylab/sveltekit-blog-mdx) &mdash; SvelteKit starter blog using MDsveX
 - 🤖 [sveltekit-seo](https://github.com/rodneylab/sveltekit-seo) &mdash; example code for setting up SEO on a SvelteKit blog
-- 🚀 [astro](https://github.com/rodneylab/astro) &mdash; example and demo code from Rodney Lab Astro articles including StackBlitz links
 - 🌤 [astro-blog-markdown](https://github.com/rodneylab/astro-blog-markdown) &mdash; Astro Markdown Blog starter
+- 🚀 [astro](https://github.com/rodneylab/astro) &mdash; example and demo code from Rodney Lab Astro articles including StackBlitz links
 - ☁️ [serverless-rust](https://github.com/rodneylab/serverless-rust) &mdash; example and demo code from Rodney Lab Serverless Rust articles
 
 ## 💙 Support Me
