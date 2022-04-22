@@ -1,8 +1,4 @@
-<picture>
-  <source srcset="./images/rodneylab-github.avif" type="image/avif">
-  <source srcset="./images/rodneylab-github.webp" type="image/webp">
-  <img src="./images/rodneylab-github.png" alt="Rodney Lab Github banner">
-</picture>
+<img src="./images/rodneylab-github.png" alt="Rodney Lab Github banner">
 
 # Rodney Lab
 **I'm Rodney, a web developer based in the UK 🇬🇧 and am available for consultancy work.**
