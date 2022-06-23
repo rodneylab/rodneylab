@@ -32,6 +32,12 @@ Sign up for my <a aria-label="Sign up the the Rodney Lab newsletter" href="https
 
 You can support me and <a aria-label="Support Rodney Lab via by me a coffee" href="https://rodneylab.com/giving/" rel="noopener">buy me a coffee</a>, if you are able to.
 
+## 🧑🏽‍🎓 Tutorials
+
+<!-- TUTORIAL-LIST:START -->
+
+<!-- TUTORIAL-LIST:END -->
+
 ## ⌨️ Latest Blog Posts
 
 
