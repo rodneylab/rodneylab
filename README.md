@@ -1,13 +1,15 @@
 <img src="./images/rodneylab-github.png" alt="Rodney Lab Github banner">
 
 # Rodney Lab
-**I'm Rodney, a web developer based in the UK 🇬🇧 and am available for consultancy work.**
+**I'm Rodney. I create tutorials to help you learn Svelte, SvelteKit and cutting edge tech to build fast, accessible web apps.**
 
-<!--
-Take a look at the latest <a aria-label="See latest Rodney Lab projects" href="https://rodneylab.com/projects/" rel="noopener">Rodney Lab projects</a>.
--->
+Take a look at the latest <a aria-label="See latest Rodney Lab projects" href="https://plus.rodneylab.com/tutorials" rel="noopener">tutorials</a> and <a aria-label="See latest Rodney Lab projects" href="https://rodneylab.com/blog/" rel="noopener">Rodney Lab blog posts</a>.
 
-Take a look at the latest <a aria-label="See latest Rodney Lab projects" href="https://rodneylab.com/blog/" rel="noopener">Rodney Lab blog posts</a>.
+## 🧑🏽‍🎓 Tutorials
+
+<!-- TUTORIAL-LIST:START -->
+- **Starting out Svelte and SvelteKit: Beginners’ Tutorial**: A tutorial Starting out Svelte and SvelteKit: build a practical design tool app in this tutorial as you start the journey from beginner to pro Svelte. <a aria-label="Read Rodney Lab post on Starting out Svelte and SvelteKit: Beginners’ Tutorial" href="https://plus.rodneylab.com/tutorials/starting-out-svelte-sveltekit" rel="noopener">Open the Starting out Svelte and SvelteKit: Beginners’ Tutorial tutorial</a>.<!-- TUTORIAL-LIST:END -->
+
 
 ## 📱 Get in touch
 
@@ -32,10 +34,6 @@ Sign up for my <a aria-label="Sign up the the Rodney Lab newsletter" href="https
 
 You can support me and <a aria-label="Support Rodney Lab via by me a coffee" href="https://rodneylab.com/giving/" rel="noopener">buy me a coffee</a>, if you are able to.
 
-## 🧑🏽‍🎓 Tutorials
-
-<!-- TUTORIAL-LIST:START -->
-- **Starting out Svelte and SvelteKit: Beginners’ Tutorial**: A tutorial Starting out Svelte and SvelteKit: build a practical design tool app in this tutorial as you start the journey from beginner to pro Svelte. <a aria-label="Read Rodney Lab post on Starting out Svelte and SvelteKit: Beginners’ Tutorial" href="https://plus.rodneylab.com/tutorials/starting-out-svelte-sveltekit" rel="noopener">Open the Starting out Svelte and SvelteKit: Beginners’ Tutorial tutorial</a>.<!-- TUTORIAL-LIST:END -->
 
 ## ⌨️ Latest Blog Posts
 
