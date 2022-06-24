@@ -35,8 +35,7 @@ You can support me and <a aria-label="Support Rodney Lab via by me a coffee" hre
 ## 🧑🏽‍🎓 Tutorials
 
 <!-- TUTORIAL-LIST:START -->
-
-<!-- TUTORIAL-LIST:END -->
+- **Starting out Svelte and SvelteKit: Beginners’ Tutorial**: A tutorial Starting out Svelte and SvelteKit: build a practical design tool app in this tutorial as you start the journey from beginner to pro Svelte. <a aria-label="Read Rodney Lab post on Starting out Svelte and SvelteKit: Beginners’ Tutorial" href="https://plus.rodneylab.com/tutorials/starting-out-svelte-sveltekit" rel="noopener">Open the Starting out Svelte and SvelteKit: Beginners’ Tutorial tutorial</a>.<!-- TUTORIAL-LIST:END -->
 
 ## ⌨️ Latest Blog Posts
 
