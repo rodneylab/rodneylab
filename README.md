@@ -8,7 +8,8 @@ Take a look at the latest <a aria-label="See latest Rodney Lab projects" href="h
 ## 🧑🏽‍🎓 Tutorials
 
 <!-- TUTORIAL-LIST:START -->
-- **Starting out Svelte and SvelteKit: Beginners’ Tutorial**: A tutorial Starting out Svelte and SvelteKit: build a practical design tool app in this tutorial as you start the journey from beginner to pro Svelte. <a aria-label="Read Rodney Lab post on Starting out Svelte and SvelteKit: Beginners’ Tutorial" href="https://plus.rodneylab.com/tutorials/starting-out-svelte-sveltekit" rel="noopener">Open the Starting out Svelte and SvelteKit: Beginners’ Tutorial tutorial</a>.<!-- TUTORIAL-LIST:END -->
+- **Svelte Video Blog: Vlog with Mux from your own SvelteKit Site**: A tutorial on Svelte Video Blog: SvelteKit tutorial on hosting a fast vlog using Mux Video API in SvelteKit. Includes lazy loading, SEO &amp;amp; web vitals. <a aria-label="Read Rodney Lab post on Svelte Video Blog: Vlog with Mux from your own SvelteKit Site" href="https://plus.rodneylab.com/tutorials/svelte-video-blog" rel="noopener">Open the Svelte Video Blog: Vlog with Mux from your own SvelteKit Site tutorial</a>.
+- **Starting out Svelte and SvelteKit: Beginners’ Tutorial**: A tutorial on Starting out Svelte and SvelteKit: build a practical design tool app in this tutorial as you start the journey from beginner to pro Svelte. <a aria-label="Read Rodney Lab post on Starting out Svelte and SvelteKit: Beginners’ Tutorial" href="https://plus.rodneylab.com/tutorials/starting-out-svelte-sveltekit" rel="noopener">Open the Starting out Svelte and SvelteKit: Beginners’ Tutorial tutorial</a>.<!-- TUTORIAL-LIST:END -->
 
 
 ## 📱 Get in touch
