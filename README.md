@@ -23,8 +23,10 @@ Take a look at the latest <a aria-label="See latest Rodney Lab projects" href="h
 
 ## 🧑🏽 News
 
-Sign up for my <a aria-label="Sign up the the Rodney Lab newsletter" href="https://rodneylab.com/about/#newsletter" rel="noopener">Newsletter</a> to keep in touch.
+Sign up for the <a aria-label="Sign up the the Rodney Lab newsletter" href="https://newsletter.rodneylab.com/issue/latest-issue#subscribe" rel="noopener">Newsletter</a> to keep in touch.
 
+<!-- NEWSLETTER-LIST:START -->
+<!-- NEWSLETTER-LIST:END -->
 
 ## 🔩 Projects
 

@@ -1,0 +1,20 @@
+name: Tutorials
+
+on:
+  # Run workflow automatically
+  schedule:
+    - cron: "0 1 * * *"
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "NEWSLETTER-LIST"
+          # comma-separated list of RSS feed urls
+          feed_list: "https://newsletter.rodneylab.com/rss.xml"
+          max_post_count: 3
+          template: '$newline- **$title**: $description <a aria-label="Read Rodney Lab newsletter on $title" href="$url" rel="noopener">Open the $title tutorial</a>.'
