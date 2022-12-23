@@ -17,4 +17,4 @@ jobs:
           # comma-separated list of RSS feed urls
           feed_list: "https://newsletter.rodneylab.com/rss.xml"
           max_post_count: 3
-          template: '$newline- **$title**: $description <a aria-label="Read Rodney Lab newsletter on $title" href="$url" rel="noopener">Open the $title tutorial</a>.'
+          template: '$newline- **$title**: $description <a aria-label="Read Rodney Lab newsletter on $title" href="$url" rel="noopener">Open the $title issue</a>.'
