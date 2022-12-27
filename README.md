@@ -18,7 +18,7 @@ Take a look at the latest <a aria-label="See latest Rodney Lab projects" href="h
 ## 📱 Get in touch
 
 - Twitter: <a aria-label="Direct message Rodney Lab on twitter" href="https://twitter.com/messages/compose?recipient_id=1323579817258831875" target="_blank" rel="nofollow noopener noreferrer">@askRodney</a>.
-- Telegram: <a aria-label="Direct message Rodney Lab on Telegram" href="https://t.me/askRodney" target="_blank" rel="nofollow noopener noreferrer">@askRodney</a>.
+- Element Matrix: Jump into the <a aria-label="Join the Rodney Lab Element Matrix room" href="https://matrix.to/#/%23rodney:matrix.org" target="_blank" rel="nofollow noopener noreferrer">#rodney</a> chat room.
 - LinkedIn: <a aria-label="Direct message Rodney Lab on LinkedIn" href="https://uk.linkedin.com/in/ask-rodney" target="_blank" rel="nofollow noopener noreferrer">ask-rodney</a>.
 
 ## 🧑🏽 News
