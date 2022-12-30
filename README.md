@@ -26,6 +26,7 @@ Take a look at the latest <a aria-label="See latest Rodney Lab projects" href="h
 Sign up for the <a aria-label="Sign up the the Rodney Lab newsletter" href="https://newsletter.rodneylab.com/issue/latest-issue#subscribe" rel="noopener">Newsletter</a> to keep in touch.
 
 <!-- NEWSLETTER-LIST:START -->
+- **Rodney Lab Newsletter — December 2022**: A tutorial on Rust up: some resources to accelerate your 🖥️ Rust learning in 2023, another ⌨️ Vim hack and some well-being focussed 🎧 podcasts. <a aria-label="Read Rodney Lab newsletter on Rodney Lab Newsletter — December 2022" href="https://newsletter.rodneylab.com/issue/2022-12-29" rel="noopener">Rodney Lab Newsletter — December 2022 issue</a>.
 - **Rodney Lab Newsletter — November 2022**: A tutorial on My 🚪 Vim woes, 🚀 Astro’s ascent and how smooth building and deploying a TypeScript/Rust WASM app is with 🦖 Deno Deploy. <a aria-label="Read Rodney Lab newsletter on Rodney Lab Newsletter — November 2022" href="https://newsletter.rodneylab.com/issue/2022-11-26" rel="noopener">Rodney Lab Newsletter — November 2022 issue</a>.
 - **Rodney Lab Newsletter — October 2022**: A tutorial on Directus database awesome developer experience, 😲 whisper’s breathtaking transcription accuracy and vite-node. <a aria-label="Read Rodney Lab newsletter on Rodney Lab Newsletter — October 2022" href="https://newsletter.rodneylab.com/issue/2022-10-22" rel="noopener">Rodney Lab Newsletter — October 2022 issue</a>.<!-- NEWSLETTER-LIST:END -->
 
