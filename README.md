@@ -26,9 +26,9 @@ Take a look at the latest <a aria-label="See latest Rodney Lab projects" href="h
 Sign up for the <a aria-label="Sign up the the Rodney Lab newsletter" href="https://newsletter.rodneylab.com/issue/latest-issue#subscribe" rel="noopener">Newsletter</a> to keep in touch.
 
 <!-- NEWSLETTER-LIST:START -->
+- **Rodney Lab Newsletter — May 2023**: A tutorial on 🛶 Capsize for reducing layout shift, lightning fast Deno deploys and forget passwords, WebAuthn 🔑 passkeys are coming! <a aria-label="Read Rodney Lab newsletter on Rodney Lab Newsletter — May 2023" href="https://newsletter.rodneylab.com/issue/2023-05-27" rel="noopener">Rodney Lab Newsletter — May 2023 issue</a>.
 - **Rodney Lab Newsletter — April 2023**: A tutorial on CLI tooling as a 🦀 Rust gateway, ❤️ SvelteKit Markdown blog resources and new 👍🏽 ThumbHash image placeholder algorithm <a aria-label="Read Rodney Lab newsletter on Rodney Lab Newsletter — April 2023" href="https://newsletter.rodneylab.com/issue/2023-04-29" rel="noopener">Rodney Lab Newsletter — April 2023 issue</a>.
-- **Rodney Lab Newsletter — March 2023**: A tutorial on unpicture this! cross-framework 📱 responsive image tooling, dropping slow 🐶 fetch requests and Shiki SvelteKit syntax highlighting <a aria-label="Read Rodney Lab newsletter on Rodney Lab Newsletter — March 2023" href="https://newsletter.rodneylab.com/issue/2023-03-18" rel="noopener">Rodney Lab Newsletter — March 2023 issue</a>.
-- **Rodney Lab Newsletter — February 2023**: A tutorial on Is Hybrid Rendering just hype? Serverless 🐣 Tinybird as a replacement for 📉 Google Universal Analytics and 😭 remember GraphQL? <a aria-label="Read Rodney Lab newsletter on Rodney Lab Newsletter — February 2023" href="https://newsletter.rodneylab.com/issue/2023-02-18" rel="noopener">Rodney Lab Newsletter — February 2023 issue</a>.<!-- NEWSLETTER-LIST:END -->
+- **Rodney Lab Newsletter — March 2023**: A tutorial on unpicture this! cross-framework 📱 responsive image tooling, dropping slow 🐶 fetch requests and Shiki SvelteKit syntax highlighting <a aria-label="Read Rodney Lab newsletter on Rodney Lab Newsletter — March 2023" href="https://newsletter.rodneylab.com/issue/2023-03-18" rel="noopener">Rodney Lab Newsletter — March 2023 issue</a>.<!-- NEWSLETTER-LIST:END -->
 
 ## 🔩 Projects
 
