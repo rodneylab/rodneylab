@@ -26,9 +26,9 @@ Take a look at the latest <a aria-label="See latest Rodney Lab projects" href="h
 Sign up for the <a aria-label="Sign up the the Rodney Lab newsletter" href="https://newsletter.rodneylab.com/issue/latest-issue#subscribe" rel="noopener">Newsletter</a> to keep in touch.
 
 <!-- NEWSLETTER-LIST:START -->
+- **Rodney Lab Newsletter — December 2023**: 🚀 Astro 4, ❤️ SvelteKit 2 &amp;amp; 🔥 Vite 5, 🦾 Organization &amp;amp; Productivity Apps &amp;amp; Tools, Shuttle for serverless 🦀 Rust. <a aria-label="Read Rodney Lab newsletter on Rodney Lab Newsletter — December 2023" href="https://newsletter.rodneylab.com/issue/2023-12-30" rel="noopener">Rodney Lab Newsletter — December 2023 issue</a>.
 - **Rodney Lab Newsletter — November 2023**: ❤️ Svelte 5 brings fine-grained reactivity, 🐕 using fetch with SvelteKit and 🖥️ egui for portable GUI apps in Rust. <a aria-label="Read Rodney Lab newsletter on Rodney Lab Newsletter — November 2023" href="https://newsletter.rodneylab.com/issue/2023-11-23" rel="noopener">Rodney Lab Newsletter — November 2023 issue</a>.
-- **Rodney Lab Newsletter — October 2023**: 🖼️ Picture tooling advances, 🤗 accessibility study guide and 📟 embedded Rust side-project inspiration. <a aria-label="Read Rodney Lab newsletter on Rodney Lab Newsletter — October 2023" href="https://newsletter.rodneylab.com/issue/2023-10-31" rel="noopener">Rodney Lab Newsletter — October 2023 issue</a>.
-- **Rodney Lab Newsletter — September 2023**: 🖥️ Evxcr Rust evaluation context, 🎬 Astro 3 View Transitions API and a massive list of free service for developers. <a aria-label="Read Rodney Lab newsletter on Rodney Lab Newsletter — September 2023" href="https://newsletter.rodneylab.com/issue/2023-09-30" rel="noopener">Rodney Lab Newsletter — September 2023 issue</a>.<!-- NEWSLETTER-LIST:END -->
+- **Rodney Lab Newsletter — October 2023**: 🖼️ Picture tooling advances, 🤗 accessibility study guide and 📟 embedded Rust side-project inspiration. <a aria-label="Read Rodney Lab newsletter on Rodney Lab Newsletter — October 2023" href="https://newsletter.rodneylab.com/issue/2023-10-31" rel="noopener">Rodney Lab Newsletter — October 2023 issue</a>.<!-- NEWSLETTER-LIST:END -->
 
 ## 🔩 Projects
 
