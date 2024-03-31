@@ -26,9 +26,9 @@ Take a look at the latest <a aria-label="See latest Rodney Lab projects" href="h
 Sign up for the <a aria-label="Sign up the the Rodney Lab newsletter" href="https://newsletter.rodneylab.com/issue/latest-issue#subscribe" rel="noopener">Newsletter</a> to keep in touch.
 
 <!-- NEWSLETTER-LIST:START -->
+- **Rodney Lab Newsletter — March 2024**: 🖥️ 5 git productivity tools and hacks, 🤔 package maintainer&amp;#039;s Deno take and Rust-powered 🔗 link checking for your site <a aria-label="Read Rodney Lab newsletter on Rodney Lab Newsletter — March 2024" href="https://newsletter.rodneylab.com/issue/2024-03-30" rel="noopener">Rodney Lab Newsletter — March 2024 issue</a>.
 - **Rodney Lab Newsletter — February 2024**: 🔥Remix Vite is stable, Rust &amp;amp; C++ 🎮 Game Dev content &amp;amp; have you tried 🥂 Git Butler? <a aria-label="Read Rodney Lab newsletter on Rodney Lab Newsletter — February 2024" href="https://newsletter.rodneylab.com/issue/2024-02-24" rel="noopener">Rodney Lab Newsletter — February 2024 issue</a>.
-- **Rodney Lab Newsletter — January 2024**: 🔦 Shiki code Highlighting, 🌾 Leptos 0.6 — now with Axum 0.7 API support &amp;amp; ⌨️ Ratatui text-based UI builder. <a aria-label="Read Rodney Lab newsletter on Rodney Lab Newsletter — January 2024" href="https://newsletter.rodneylab.com/issue/2024-01-27" rel="noopener">Rodney Lab Newsletter — January 2024 issue</a>.
-- **Rodney Lab Newsletter — December 2023**: 🚀 Astro 4, ❤️ SvelteKit 2 &amp;amp; 🔥 Vite 5, 🦾 Organization &amp;amp; Productivity Apps &amp;amp; Tools, Shuttle for serverless 🦀 Rust. <a aria-label="Read Rodney Lab newsletter on Rodney Lab Newsletter — December 2023" href="https://newsletter.rodneylab.com/issue/2023-12-30" rel="noopener">Rodney Lab Newsletter — December 2023 issue</a>.<!-- NEWSLETTER-LIST:END -->
+- **Rodney Lab Newsletter — January 2024**: 🔦 Shiki code Highlighting, 🌾 Leptos 0.6 — now with Axum 0.7 API support &amp;amp; ⌨️ Ratatui text-based UI builder. <a aria-label="Read Rodney Lab newsletter on Rodney Lab Newsletter — January 2024" href="https://newsletter.rodneylab.com/issue/2024-01-27" rel="noopener">Rodney Lab Newsletter — January 2024 issue</a>.<!-- NEWSLETTER-LIST:END -->
 
 ## 🔩 Projects
 
