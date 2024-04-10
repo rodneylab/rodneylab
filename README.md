@@ -1,7 +1,7 @@
 <img src="./images/rodneylab-github.png" alt="Rodney Lab Github banner">
 
 # Rodney Lab
-** I’m Rodney, a Game Developer with an “Eternal Student” mindset. I create content on game and web development.**
+**I’m Rodney, a Game Developer with an “Eternal Student” mindset. I create content on game and web development.**
 
 Take a look at the latest <a aria-label="See latest Rodney Lab projects" href="https://plus.rodneylab.com/tutorials" rel="noopener">tutorials</a> and <a aria-label="See latest Rodney Lab projects" href="https://rodneylab.com/blog/" rel="noopener">Rodney Lab blog posts</a>.
 
