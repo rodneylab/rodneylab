@@ -1,7 +1,7 @@
 <img src="./images/rodneylab-github.png" alt="Rodney Lab Github banner">
 
 # Rodney Lab
-**I'm Rodney. I create tutorials to help you learn Svelte, SvelteKit and cutting edge tech to build fast, accessible web apps.**
+** I’m Rodney, a Game Developer with an “Eternal Student” mindset. I create content on game and web development.**
 
 Take a look at the latest <a aria-label="See latest Rodney Lab projects" href="https://plus.rodneylab.com/tutorials" rel="noopener">tutorials</a> and <a aria-label="See latest Rodney Lab projects" href="https://rodneylab.com/blog/" rel="noopener">Rodney Lab blog posts</a>.
 
@@ -23,7 +23,7 @@ Take a look at the latest <a aria-label="See latest Rodney Lab projects" href="h
 
 ## 🧑🏽 News
 
-Sign up for the <a aria-label="Sign up the the Rodney Lab newsletter" href="https://newsletter.rodneylab.com/issue/latest-issue#subscribe" rel="noopener">Newsletter</a> to keep in touch.
+Sign up for the <a aria-label="Sign up to the Rodney Lab newsletter" href="https://newsletter.rodneylab.com/issue/latest-issue#subscribe" rel="noopener">Newsletter</a> to keep in touch.
 
 <!-- NEWSLETTER-LIST:START -->
 - **Rodney Lab Newsletter — March 2024**: 🖥️ 5 git productivity tools and hacks, 🤔 package maintainer&amp;#039;s Deno take and Rust-powered 🔗 link checking for your site <a aria-label="Read Rodney Lab newsletter on Rodney Lab Newsletter — March 2024" href="https://newsletter.rodneylab.com/issue/2024-03-30" rel="noopener">Rodney Lab Newsletter — March 2024 issue</a>.
